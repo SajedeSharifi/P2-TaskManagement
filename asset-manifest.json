@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/P2-TaskManagement.git/static/css/main.8caeab82.css",
+    "main.js": "/P2-TaskManagement.git/static/js/main.b8935fd8.js",
+    "static/js/787.bd4ef7cd.chunk.js": "/P2-TaskManagement.git/static/js/787.bd4ef7cd.chunk.js",
+    "static/media/logo.gif": "/P2-TaskManagement.git/static/media/logo.dae008466ca37a5ea8d7.gif",
+    "static/media/ticket.webp": "/P2-TaskManagement.git/static/media/ticket.52aec89d67db3907efce.webp",
+    "static/media/comunicate.webp": "/P2-TaskManagement.git/static/media/comunicate.595ad50f0c6d69b16f6e.webp",
+    "static/media/system.webp": "/P2-TaskManagement.git/static/media/system.30cf58c46ecfcb9bff8d.webp",
+    "index.html": "/P2-TaskManagement.git/index.html",
+    "main.8caeab82.css.map": "/P2-TaskManagement.git/static/css/main.8caeab82.css.map",
+    "main.b8935fd8.js.map": "/P2-TaskManagement.git/static/js/main.b8935fd8.js.map",
+    "787.bd4ef7cd.chunk.js.map": "/P2-TaskManagement.git/static/js/787.bd4ef7cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8caeab82.css",
+    "static/js/main.b8935fd8.js"
+  ]
+}
