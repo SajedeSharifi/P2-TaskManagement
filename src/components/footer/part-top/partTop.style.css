@@ -1,0 +1,26 @@
+.achievement {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    direction: rtl;
+    width: 100vw;
+    margin-bottom: 60px;
+    margin-top: 20px;   
+}
+.achievement img {
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+.achievement div {
+    max-width: 250px;
+    text-align: right;
+    margin-top: 40px;
+}
+.achievement h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(96, 96, 96);
+}
+.achievement span {
+    color: gray;
+    font-size: 15px;
+}

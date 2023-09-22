@@ -1,0 +1,8 @@
+.table-header label {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    display: inline-block;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    
+}
